@@ -12,5 +12,5 @@ INSERT INTO customers values(1,"Vanshika Sikarwar","F-22 Krishna Colony","Gwalio
 INSERT INTO customers values(2,"Vaisa Sikarwar","Ras Vihar Colony","Patna","UP","473001");
 INSERT INTO customers values(3,"Vaibhika Sikarwar","Basant Vihar Colony","Gwalior","MP","474501");
 INSERT INTO customers values(4,"Vanu Sikarwar","M.D. Nagar","Gwalior","MP","474061");
--- INSERT INTO customers values(5,"Vanari Sikarwar","NayanGanj","Gwalior","MP","474801");
+INSERT INTO customers values(5,"Vanari Sikarwar","NayanGanj","Gwalior","MP","474801");
 select * from customers;
